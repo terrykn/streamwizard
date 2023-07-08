@@ -6,7 +6,7 @@ const DetailsShow = (props) => {
 
     useEffect(() => {
         const fetchMovieDetails = async () => {
-            const url = `http://www.omdbapi.com/?i=${props.movie.imdbID}&apikey=4d56e82c`;
+            const url = `https://www.omdbapi.com/?i=${props.movie.imdbID}&apikey=4d56e82c`;
             const response = await fetch(url);
             const resJson = await response.json();
             setMovieDetails(resJson);
