@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/streamwizard/static/css/main.ea0b6130.css",
+    "main.js": "/streamwizard/static/js/main.7f2ea9b3.js",
+    "index.html": "/streamwizard/index.html",
+    "main.ea0b6130.css.map": "/streamwizard/static/css/main.ea0b6130.css.map",
+    "main.7f2ea9b3.js.map": "/streamwizard/static/js/main.7f2ea9b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0b6130.css",
+    "static/js/main.7f2ea9b3.js"
+  ]
+}
