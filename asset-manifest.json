@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/streamwizard/static/css/main.ea0b6130.css",
-    "main.js": "/streamwizard/static/js/main.e5c352d4.js",
+    "main.js": "/streamwizard/static/js/main.cb331f9a.js",
     "index.html": "/streamwizard/index.html",
     "main.ea0b6130.css.map": "/streamwizard/static/css/main.ea0b6130.css.map",
-    "main.e5c352d4.js.map": "/streamwizard/static/js/main.e5c352d4.js.map"
+    "main.cb331f9a.js.map": "/streamwizard/static/js/main.cb331f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.ea0b6130.css",
-    "static/js/main.e5c352d4.js"
+    "static/js/main.cb331f9a.js"
   ]
 }
